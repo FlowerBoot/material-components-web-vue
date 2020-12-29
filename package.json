@@ -14,17 +14,19 @@
   },
   "devDependencies": {
     "@material/button": "^8.0.0",
+    "@material/icon-button": "^8.0.0",
+    "@material/layout-grid": "^8.0.0",
+    "@material/textfield": "^8.0.0",
+    "@material/top-app-bar": "^8.0.0",
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-plugin-eslint": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
     "@vue/compiler-sfc": "^3.0.0",
     "babel-eslint": "^10.1.0",
-    "compression-webpack-plugin": "^7.1.1",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^7.0.0-0",
     "sass": "^1.30.0",
-    "sass-loader": "^10.1.0",
-    "uglifyjs-webpack-plugin": "^2.2.0"
+    "sass-loader": "^10.1.0"
   },
   "eslintConfig": {
     "root": true,
